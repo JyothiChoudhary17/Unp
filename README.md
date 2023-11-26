@@ -1,7 +1,10 @@
 # Unp-Project-with-PowerBI-SuppyChain
+Description of the Project:-
+
 Supply chain management Dashboard showing the trends in the sales of different products from different regions classified into categories and subcategories.
 The dataset contains information about supply chain management.The date columns have been modified to a proper format.
-Description of the Project:-
+
+
 
 The datset for which the analysis was made is a Supply Chain database. Firstly, to this database transformation was done for the date columns in order to make the date format uniform throughout the date column. After which KPI calclautions were done based on different metrices and dimensions that were present in the dataset.
 
